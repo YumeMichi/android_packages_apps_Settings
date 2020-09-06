@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="show_app_volume_title">分应用音量控制</string>
+    <string name="show_app_volume_summary">在音量控制面板中显示应用程序的音量</string>
+</resources>
